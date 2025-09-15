@@ -1,0 +1,171 @@
+2025-09-15 15:35:51 | INFO     | __main__:<module>:78 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 15:35:51 | INFO     | __main__:<module>:79 - Debug mode: False
+2025-09-15 15:35:51 | INFO     | __main__:<module>:80 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 15:36:06 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: fd4f6914-4dc5-4e79-aa20-9ca26a37c8fb
+2025-09-15 15:36:06 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 15:36:15 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: c01392a8-99c7-4d9f-89d6-e304170c1e34
+2025-09-15 15:36:15 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: fd4f6914-4dc5-4e79-aa20-9ca26a37c8fb
+2025-09-15 15:49:17 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: f804d43c-e66f-4922-80bb-a1f52de1df2a
+2025-09-15 15:49:17 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I need a quick healthy lunch...
+2025-09-15 15:49:27 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 5d5f67a0-61c9-4ebd-acca-9681ae817ad5
+2025-09-15 15:49:27 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: f804d43c-e66f-4922-80bb-a1f52de1df2a
+2025-09-15 15:50:09 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: e80f9d4f-415d-40dc-a434-7ad123315095
+2025-09-15 15:50:09 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I need a indian lunch...
+2025-09-15 15:50:18 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: c670e039-db2c-4e80-ad0f-31e2171d726e
+2025-09-15 15:50:18 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: e80f9d4f-415d-40dc-a434-7ad123315095
+2025-09-15 15:54:34 | INFO     | __main__:<module>:99 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 15:54:34 | INFO     | __main__:<module>:100 - Debug mode: False
+2025-09-15 15:54:34 | INFO     | __main__:<module>:101 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 15:54:34 | INFO     | __main__:<module>:102 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 15:55:12 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: 72d9940f-4efa-48c5-bfb8-064940d8eec0
+2025-09-15 15:55:12 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 15:55:21 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 0ba531ee-88fa-4503-85bc-7c4f5d0078e1
+2025-09-15 15:55:21 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: 72d9940f-4efa-48c5-bfb8-064940d8eec0
+2025-09-15 15:55:41 | INFO     | __main__:<module>:99 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 15:55:41 | INFO     | __main__:<module>:100 - Debug mode: False
+2025-09-15 15:55:41 | INFO     | __main__:<module>:101 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 15:55:41 | INFO     | __main__:<module>:102 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 15:56:14 | INFO     | __main__:<module>:99 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 15:56:14 | INFO     | __main__:<module>:100 - Debug mode: False
+2025-09-15 15:56:14 | INFO     | __main__:<module>:101 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 15:56:14 | INFO     | __main__:<module>:102 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 15:56:22 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: c0bfc7b6-4aac-4105-b8ed-d8d3c656d16f
+2025-09-15 15:56:22 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 15:56:30 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: f8439090-d35c-4c69-97d2-51c99fadc3c7
+2025-09-15 15:56:30 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: c0bfc7b6-4aac-4105-b8ed-d8d3c656d16f
+2025-09-15 16:00:07 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: 481a5d89-fc30-40e2-8560-cb107d01177e
+2025-09-15 16:00:07 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I need a quick healthy lunch...
+2025-09-15 16:00:16 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 164d142c-a35a-427b-9a19-8630ff4e17a9
+2025-09-15 16:00:16 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: 481a5d89-fc30-40e2-8560-cb107d01177e
+2025-09-15 16:01:16 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: e0131866-2c58-464e-aefe-5349f9e93b0a
+2025-09-15 16:01:16 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 16:01:23 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: ac8a503c-9e93-49e7-bdc9-2d339b40c2c5
+2025-09-15 16:01:23 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: e0131866-2c58-464e-aefe-5349f9e93b0a
+2025-09-15 16:14:03 | INFO     | __main__:<module>:99 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 16:14:03 | INFO     | __main__:<module>:100 - Debug mode: False
+2025-09-15 16:14:03 | INFO     | __main__:<module>:101 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 16:14:03 | INFO     | __main__:<module>:102 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 16:16:38 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: d994c7fc-1260-4868-9387-cf1d57ec97a9
+2025-09-15 16:16:38 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 16:16:45 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 6fdc7486-63a3-489e-80d6-6f2dac85609e
+2025-09-15 16:16:45 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: d994c7fc-1260-4868-9387-cf1d57ec97a9
+2025-09-15 16:17:04 | INFO     | __main__:<module>:99 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 16:17:04 | INFO     | __main__:<module>:100 - Debug mode: False
+2025-09-15 16:17:04 | INFO     | __main__:<module>:101 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 16:17:04 | INFO     | __main__:<module>:102 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 16:18:03 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: aaabbb3d-f7eb-493f-bfc6-39699e726610
+2025-09-15 16:18:03 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 16:18:14 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: b1094f8b-9841-4c0c-921f-696c22a62247
+2025-09-15 16:18:14 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: aaabbb3d-f7eb-493f-bfc6-39699e726610
+2025-09-15 16:51:15 | INFO     | __main__:<module>:99 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 16:51:15 | INFO     | __main__:<module>:100 - Debug mode: False
+2025-09-15 16:51:15 | INFO     | __main__:<module>:101 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 16:51:15 | INFO     | __main__:<module>:102 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 16:51:25 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: 4fdc3b3b-41d7-410a-8b2a-8ce44a48cfd4
+2025-09-15 16:51:25 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 16:51:35 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 6f819f49-4f34-4e48-b0f3-7bf18271dbc6
+2025-09-15 16:51:35 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: 4fdc3b3b-41d7-410a-8b2a-8ce44a48cfd4
+2025-09-15 16:51:58 | INFO     | __main__:<module>:99 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 16:51:58 | INFO     | __main__:<module>:100 - Debug mode: False
+2025-09-15 16:51:58 | INFO     | __main__:<module>:101 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 16:51:58 | INFO     | __main__:<module>:102 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 16:57:24 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: aae7565b-c030-4590-9529-2ff049a79d56
+2025-09-15 16:57:24 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 16:57:34 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 06743af5-fa11-40a8-b2ed-9878983fdfa9
+2025-09-15 16:57:34 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: aae7565b-c030-4590-9529-2ff049a79d56
+2025-09-15 17:00:52 | INFO     | __main__:<module>:99 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 17:00:52 | INFO     | __main__:<module>:100 - Debug mode: False
+2025-09-15 17:00:52 | INFO     | __main__:<module>:101 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 17:00:52 | INFO     | __main__:<module>:102 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 17:00:59 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: 661fba33-e19e-4544-a2f0-77e59b4f2870
+2025-09-15 17:00:59 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 17:01:07 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: e77c464b-ea28-4ef3-b85b-65db9565a6fc
+2025-09-15 17:01:07 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: 661fba33-e19e-4544-a2f0-77e59b4f2870
+2025-09-15 17:02:52 | INFO     | __main__:<module>:99 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 17:02:52 | INFO     | __main__:<module>:100 - Debug mode: False
+2025-09-15 17:02:52 | INFO     | __main__:<module>:101 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 17:02:52 | INFO     | __main__:<module>:102 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 17:03:01 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: b6fcc39e-7816-4a6a-b62d-9cbc988cc4e6
+2025-09-15 17:03:01 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 17:03:11 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 3923e56a-ff20-41b5-9a46-559e5e85748f
+2025-09-15 17:03:11 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: b6fcc39e-7816-4a6a-b62d-9cbc988cc4e6
+2025-09-15 17:15:46 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: 86717fa0-d675-417c-ae89-04fb32c493b6
+2025-09-15 17:15:46 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 17:15:54 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 0f76e8b8-1271-4973-a6f7-0aa8a81bcba1
+2025-09-15 17:15:54 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: 86717fa0-d675-417c-ae89-04fb32c493b6
+2025-09-15 17:20:39 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: 3779a4f5-e8ec-43be-ad43-6318ab1b15b9
+2025-09-15 17:20:39 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 17:20:46 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: f0c4b023-aa21-4c4e-a947-d5822c89bbdd
+2025-09-15 17:20:46 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: 3779a4f5-e8ec-43be-ad43-6318ab1b15b9
+2025-09-15 17:25:00 | INFO     | __main__:<module>:72 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 17:25:00 | INFO     | __main__:<module>:73 - Debug mode: False
+2025-09-15 17:25:00 | INFO     | __main__:<module>:74 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 17:25:00 | INFO     | __main__:<module>:75 - Features: Simple responses, Session management
+2025-09-15 17:25:14 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: c078efda-ad13-4a62-95c8-0009cdd9f665
+2025-09-15 17:25:14 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 17:25:24 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 5307b956-00a2-4eb2-a172-232e6b18b20c
+2025-09-15 17:25:24 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: c078efda-ad13-4a62-95c8-0009cdd9f665
+2025-09-15 17:25:44 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: 43e751e6-8446-4f62-8fc8-2edd8bb1133e
+2025-09-15 17:25:44 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I need a quick healthy lunch...
+2025-09-15 17:25:50 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 607d1d11-a4ed-493d-ad73-91e254f67564
+2025-09-15 17:25:50 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: 43e751e6-8446-4f62-8fc8-2edd8bb1133e
+2025-09-15 17:32:06 | INFO     | app.api.chat:generate_meal_suggestion:41 - Processing meal suggestion request for session: d7b04f5b-e7f9-4ec5-a90d-18d4f5c532b5
+2025-09-15 17:32:06 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 17:32:15 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 9fc08075-35c9-4199-bc83-fee85571384a
+2025-09-15 17:32:15 | INFO     | app.api.chat:generate_meal_suggestion:58 - Successfully processed meal suggestion for session: d7b04f5b-e7f9-4ec5-a90d-18d4f5c532b5
+2025-09-15 17:33:17 | INFO     | __main__:<module>:73 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 17:33:17 | INFO     | __main__:<module>:74 - Debug mode: False
+2025-09-15 17:33:17 | INFO     | __main__:<module>:75 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 17:33:17 | INFO     | __main__:<module>:76 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 17:33:28 | INFO     | app.api.chat:generate_meal_suggestion:87 - Processing meal suggestion request 01dcd473-79e4-428d-b749-6f1212a570b5 for session: 4b0b8566-78cb-4239-84b9-15bebeb3819b
+2025-09-15 17:33:28 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 17:33:35 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: b443dc61-7ead-4e88-bc38-54d098ff8449
+2025-09-15 17:33:35 | INFO     | app.services.json_parser:parse_meal_suggestion:89 - Successfully parsed structured meal suggestion: Roasted Vegetable Quinoa Bowl
+2025-09-15 17:33:35 | ERROR    | app.api.chat:generate_meal_suggestion:142 - Error generating meal suggestion: 'MealSuggestion' object has no attribute 'suggestion_id'
+2025-09-15 17:34:03 | INFO     | __main__:<module>:73 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 17:34:03 | INFO     | __main__:<module>:74 - Debug mode: False
+2025-09-15 17:34:03 | INFO     | __main__:<module>:75 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 17:34:03 | INFO     | __main__:<module>:76 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 17:34:13 | INFO     | app.api.chat:generate_meal_suggestion:87 - Processing meal suggestion request 050545fa-2b95-451f-9d56-c70428130820 for session: a4c7d11f-adfa-446b-9d11-649223fbdf3f
+2025-09-15 17:34:13 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 17:34:20 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 44ed3424-670f-4925-9f55-1df29136d241
+2025-09-15 17:34:20 | INFO     | app.services.json_parser:parse_meal_suggestion:89 - Successfully parsed structured meal suggestion: Roasted Vegetable Quinoa Bowl
+2025-09-15 17:34:20 | ERROR    | app.api.chat:generate_meal_suggestion:142 - Error generating meal suggestion: 'MealSuggestion' object has no attribute 'suggestion_id'
+2025-09-15 17:34:28 | INFO     | __main__:<module>:73 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 17:34:28 | INFO     | __main__:<module>:74 - Debug mode: False
+2025-09-15 17:34:28 | INFO     | __main__:<module>:75 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 17:34:28 | INFO     | __main__:<module>:76 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 17:34:38 | INFO     | app.api.chat:generate_meal_suggestion:87 - Processing meal suggestion request 0aa0be9e-3816-4d8a-8972-b8ee54b411a6 for session: a25023a9-932b-4952-80ca-49f92855ad9a
+2025-09-15 17:34:38 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 17:34:44 | INFO     | app.services.openrouter_service:generate_meal_suggestion:63 - Successfully generated meal suggestion: 62041a18-0bc8-450b-901b-4ca5a918a4ee
+2025-09-15 17:34:44 | WARNING  | app.services.json_parser:extract_json_from_text:66 - Could not extract valid JSON from LLM response
+2025-09-15 17:34:44 | ERROR    | app.services.json_parser:parse_meal_suggestion:84 - No valid JSON found in LLM response
+2025-09-15 17:34:44 | ERROR    | app.api.chat:generate_meal_suggestion:142 - Error generating meal suggestion: 'MealSuggestion' object has no attribute 'suggestion_id'
+2025-09-15 17:35:05 | INFO     | __main__:<module>:73 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 17:35:05 | INFO     | __main__:<module>:74 - Debug mode: False
+2025-09-15 17:35:05 | INFO     | __main__:<module>:75 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 17:35:05 | INFO     | __main__:<module>:76 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 17:51:44 | INFO     | __main__:<module>:73 - Starting Meal Suggestor Backend v1.0.0
+2025-09-15 17:51:44 | INFO     | __main__:<module>:74 - Debug mode: False
+2025-09-15 17:51:44 | INFO     | __main__:<module>:75 - OpenRouter model: meta-llama/llama-4-scout:free
+2025-09-15 17:51:44 | INFO     | __main__:<module>:76 - Features: Structured JSON responses, Meal parsing, Session management
+2025-09-15 17:51:54 | INFO     | app.api.chat:generate_meal_suggestion:87 - Processing meal suggestion request ec265157-d344-4207-a79d-ed5657e13adc for session: b35e959e-f217-4186-8470-02f1ca9de9c8
+2025-09-15 17:51:54 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy vegetarian meal for dinner...
+2025-09-15 17:52:05 | INFO     | app.services.openrouter_service:generate_meal_suggestion:53 - Successfully generated meal suggestion: gen-1757938915-iyUDh681HjyGlDLsaZue
+2025-09-15 17:52:05 | INFO     | app.services.json_parser:parse_meal_suggestion:89 - Successfully parsed structured meal suggestion: Roasted Vegetable Quinoa Bowl
+2025-09-15 17:52:05 | INFO     | app.api.chat:generate_meal_suggestion:108 - Successfully processed structured meal suggestion gen-1757938915-iyUDh681HjyGlDLsaZue for session: b35e959e-f217-4186-8470-02f1ca9de9c8
+2025-09-15 17:52:14 | INFO     | app.api.chat:generate_meal_suggestion:87 - Processing meal suggestion request f500bb11-af3f-450e-bde8-c6df609b0214 for session: c5581abc-7cb7-4138-b827-1dbdd2b2fc9d
+2025-09-15 17:52:14 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I need a quick healthy lunch...
+2025-09-15 17:52:22 | INFO     | app.services.openrouter_service:generate_meal_suggestion:53 - Successfully generated meal suggestion: gen-1757938935-LU9JCXFFxXdXoQ2UnNfT
+2025-09-15 17:52:22 | INFO     | app.services.json_parser:parse_meal_suggestion:89 - Successfully parsed structured meal suggestion: Grilled Chicken and Avocado Salad
+2025-09-15 17:52:22 | INFO     | app.api.chat:generate_meal_suggestion:108 - Successfully processed structured meal suggestion gen-1757938935-LU9JCXFFxXdXoQ2UnNfT for session: c5581abc-7cb7-4138-b827-1dbdd2b2fc9d
+2025-09-15 17:53:09 | INFO     | app.api.chat:generate_meal_suggestion:87 - Processing meal suggestion request 3dac3a9c-f8d2-48c9-82e3-612b3f85daed for session: a649a6bb-4920-42cd-a6d9-d0ea16be7440
+2025-09-15 17:53:09 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I want a healthy breakfast...
+2025-09-15 17:53:16 | INFO     | app.services.openrouter_service:generate_meal_suggestion:53 - Successfully generated meal suggestion: gen-1757938990-t04uGefEk2GASiQSZaEU
+2025-09-15 17:53:16 | INFO     | app.services.json_parser:parse_meal_suggestion:89 - Successfully parsed structured meal suggestion: Avocado and Feta Omelette
+2025-09-15 17:53:16 | INFO     | app.api.chat:generate_meal_suggestion:108 - Successfully processed structured meal suggestion gen-1757938990-t04uGefEk2GASiQSZaEU for session: a649a6bb-4920-42cd-a6d9-d0ea16be7440
+2025-09-15 17:54:06 | INFO     | app.api.chat:generate_meal_suggestion:87 - Processing meal suggestion request 9cf560c3-e54e-4543-8009-cd8e669e19f5 for session: 52617605-ecef-4e4b-a530-5e928ffc20f8
+2025-09-15 17:54:06 | INFO     | app.services.openrouter_service:generate_meal_suggestion:21 - Generating meal suggestion for user message: I need a indian lunch...
+2025-09-15 17:54:18 | INFO     | app.services.openrouter_service:generate_meal_suggestion:53 - Successfully generated meal suggestion: gen-1757939046-TfZ5BGXsKcGncDyNdRZ3
+2025-09-15 17:54:18 | INFO     | app.services.json_parser:parse_meal_suggestion:89 - Successfully parsed structured meal suggestion: Chicken Tikka Masala with Brown Rice and Naan
+2025-09-15 17:54:18 | INFO     | app.api.chat:generate_meal_suggestion:108 - Successfully processed structured meal suggestion gen-1757939046-TfZ5BGXsKcGncDyNdRZ3 for session: 52617605-ecef-4e4b-a530-5e928ffc20f8
