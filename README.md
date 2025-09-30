@@ -1,4 +1,4 @@
-# Meal Suggestor Backend
+# Meal Suggestor Backend | Basic integration to Open router API and UI enabled chat
 
 A modular Python backend API for meal suggestions powered by OpenRouter LLM integration.
 
